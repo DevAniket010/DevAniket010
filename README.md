@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Jadhav</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFqNpIgtNxatQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724158605696?e=1733356800&v=beta&t=3YH-aju92N5J1ojIDxwCdLiiqzYY94DPb78eK2j_YhY" alt="Banner" style="width: 100%; height: auto;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaniket010&label=Profile%20views&color=0e75b6&style=flat" alt="devaniket010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaniket010" alt="devaniket010" /></a> </p>
